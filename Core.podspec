@@ -5,7 +5,7 @@ s.ios.deployment_target = '14.0'
 s.name = "Core"
 s.summary = "Dicoding Core.framework for modularization chapter"
 s.requires_arc = true
-s.version = "1.0.1"
+s.version = "1.0.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Philip Indra Prayitno" => "philip.prayitno@gmail.com" }
 s.homepage = "https://github.com/S1rent/Dicoding-Core"
